@@ -56,4 +56,5 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
-| Луконин Кирилл                     | Wireless Engineer                       |
+| Климарев Михаил                    | https://t.me/zatelecom                  |
+
